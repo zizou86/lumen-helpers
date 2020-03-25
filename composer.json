@@ -3,6 +3,7 @@
     "description": "To support Laravel 's unsupported features in Lumen.",
     "keywords": ["heplers", "lumen", "laravel"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Albert Chen",
